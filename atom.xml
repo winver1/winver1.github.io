@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://winver1.github.io</id>
+    <title>winver|Blog</title>
+    <updated>2023-04-29T15:44:28.392Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://winver1.github.io"/>
+    <link rel="self" href="https://winver1.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://winver1.github.io/images/avatar.png</logo>
+    <icon>https://winver1.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, winver|Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[WebStrom安装以及下载链接]]></title>
+        <id>https://winver1.github.io/post/webstrom-an-zhuang-yi-ji-xia-zai-lian-jie/</id>
+        <link href="https://winver1.github.io/post/webstrom-an-zhuang-yi-ji-xia-zai-lian-jie/">
+        </link>
+        <updated>2023-04-22T12:52:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>WebStorm 是jetbrains公司旗下一款JavaScript 开发工具。被广大中国JS开发者誉为“Web前端开发神器”</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>WebStorm 是jetbrains公司旗下一款JavaScript 开发工具。被广大中国JS开发者誉为“Web前端开发神器”</p>
+<!-- more -->
+<p>“最强大的HTML5编辑器”、“最智能的JavaScript IDE”等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能。</p>
+<p>强大的智能提示只是它的一个功能特性，它还具有许多有用的特性</p>
+<p>官方下载地址：https://www.jetbrains.com  --- 拒绝白嫖  💪💪💪💪</p>
+<p>破解版下载：<br>
+某度网盘 速度可能有点慢</p>
+<p>链接：https://pan.baidu.com/s/1boanXa1oatibY0vqrsaDsw?pwd=1221<br>
+提取码：1221</p>
+<!-- more -->
+<p>安装教程：<br>
+下载后先解压</p>
+<figure data-type="image" tabindex="1"><img src="https://winver1.github.io/post-images/1682168579434.png" alt="" loading="lazy"></figure>
+<p>解压后打开webstrom.exe进行安装，全程下一步即可<br>
+<img src="https://winver1.github.io/post-images/1682168632169.png" alt="" loading="lazy"><br>
+完成后打开<br>
+将<br>
+<img src="https://winver1.github.io/post-images/1682168622907.png" alt="" loading="lazy"><br>
+这个文件拖入界面进行安装</p>
+<p>汉化</p>
+<p>将<br>
+<img src="https://winver1.github.io/post-images/1682168774192.png" alt="" loading="lazy"><br>
+这个文件放入<br>
+<img src="https://winver1.github.io/post-images/1682168788572.png" alt="" loading="lazy"><br>
+这个文件夹即可完成汉化</p>
+<p>😘😘😘</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你好！]]></title>
+        <id>https://winver1.github.io/post/hello/</id>
+        <link href="https://winver1.github.io/post/hello/">
+        </link>
+        <updated>2023-04-22T12:26:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>😎👏  欢迎来到我的个人博客！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😎👏  欢迎来到我的个人博客！</p>
+<!-- more -->
+<p><a href="https://github.com/winver1">Github</a></p>
+<p>欢迎一起学习</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
